@@ -1,0 +1,62 @@
+var rules = [
+//国内二级域名
+  "||edu.cn",
+  "||org.cn",
+  "||gov.cn",
+//网易
+  "||163.com",
+  "||126.com",
+  "||127.net",
+  "||netease.com",
+  "||163yun.com",
+  "||126.net",
+//腾讯
+  "||qq.com",
+  "||soso.com",
+  "||qpic.cn",
+  "||qtimg.cn",
+  "||weixin.com",
+  "||qlogo.cn",
+//新浪
+  "||weibo.com",
+  "||sinajs.cn",
+  "||sina.com",
+  "||sina.cn",
+  "||sina.com.cn",
+  "||sinaimg.cn",
+  "||sinajs.cn",
+  "||miaopai.com",
+  "||xiaoka.tv",
+  "||t.cn",
+//阿里
+  "||aliyun.com",
+  "||taobao.com",
+  "||alicdn.com",
+  "||tmall.com",
+  "||mmstat.com",
+  "||tbcdn.com",
+  "||alibabacloud.com",
+  "||alipay.com",
+  "||hichina.com",
+  "||xiami.com",
+  "||xiami.net",
+//百度
+  "||baidu.com",
+  "||bdstatic.com",
+  "||bcebos.com",
+  "||baidupcs.com",
+//Bilibili
+  "||hdslb.com",
+  "||bilibili.com",
+  "||geetest.com",
+  "||acgvideo.com",
+  "||bilivideo.com",
+//国内其它
+  "||zhihu.com",
+  "||zhimg.com",
+  "||xiumi.us",
+  "||douban.com",
+  "||doubanio.com",
+  "||tianyancha.com",
+  "||qiniu.com"
+];
